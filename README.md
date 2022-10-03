@@ -2,6 +2,7 @@
 ADX UnO is an Arduino Uno based HF Digital Modes Transceiver. ADX is abbreviation for Arduino Digital Xceiver. 
 
 ADX UnO is based on ADX – Arduino based Digital Modes Transceiver design.
+
 https://antrak.org.tr/blog/adx-arduino-digital-transceiver/
 
 ADX UnO is a mono band digital modes optimized HF transceiver that can be plugged on top of an Arduino Uno board to create a 3.5 watts average RF Output power 
